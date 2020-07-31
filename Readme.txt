@@ -4,6 +4,7 @@ A voxelized model of a beaver, with 3 stand animations, a gnaw animation, a walk
 
 license = CC0, see license.txt
 
+Note: If you want to view/edit animations, open the .blend1 file rather than the .blend
 
 
 This can be used for any mob for minetest, just put the image in the textures folder, and the .b3d file in the models folder. 
